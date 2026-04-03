@@ -1,4 +1,4 @@
-##Manifesto da Nova Ordem Digital
+Manifesto da Nova Ordem Digital
 
 📄 Sobre este documento
 Este repositório contém o arquivo manifesto_nova_ordem_digital.txt, um texto que propõe uma reflexão e um posicionamento sobre o futuro da infraestrutura tecnológica global.
