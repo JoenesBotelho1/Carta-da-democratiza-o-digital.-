@@ -1,4 +1,5 @@
-Manifesto da Nova Ordem Digital
+##Manifesto da Nova Ordem Digital
+
 📄 Sobre este documento
 Este repositório contém o arquivo manifesto_nova_ordem_digital.txt, um texto que propõe uma reflexão e um posicionamento sobre o futuro da infraestrutura tecnológica global.
 O manifesto parte do princípio de que a tecnologia deixou de ser neutra e passou a ser usada como instrumento de poder geopolítico. A proposta apresentada aqui é simples, porém profunda: tornar a base tecnológica do mundo aberta, padronizada e acessível a todos, como forma de promover desenvolvimento humano e reduzir conflitos globais.
